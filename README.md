@@ -6,4 +6,5 @@ After that "node index.js"
 > [!TIP]
 > for packaging in .exe need use pkg app.js
 
+##Example for windows
 ![Screenshot](image/file.png)
