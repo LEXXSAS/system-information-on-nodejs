@@ -9,5 +9,5 @@ After that "node index.js"
 > [!WARNING]
 > for linux see the file onclient.js and index2.js
 
-### Example for windows
+#### Example for windows
 ![Screenshot](image/file.png)
